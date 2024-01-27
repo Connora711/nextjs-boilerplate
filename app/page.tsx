@@ -47,7 +47,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Here's YouTube! The biggest video platform on the web.
+            Here&apos;s YouTube! The biggest video platform on the web.
           </p>
         </a>
 
